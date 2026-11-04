@@ -1,0 +1,7 @@
+My First Local GitHub Project
+
+I created this file on my Windows computer.
+
+I am learning how to use GitHub Desktop.
+
+My next goal is to learn software development with AI.
